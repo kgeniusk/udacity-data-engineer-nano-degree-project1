@@ -24,8 +24,10 @@ python create_tables.py
 python etl.py
 ```
 
-## list of files
-* 
-
+## List of files
+* data: contains the sample data
+* create_tables.py: drops existing tables and create new tables
+* etl.py: read sample data and insert into the database
+* sql_queries.py: SQL statements for creating, inserting and selecting tables
 
 
