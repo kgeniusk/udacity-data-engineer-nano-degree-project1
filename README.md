@@ -12,6 +12,8 @@ The database consists of the following tables.
   * time
   * users
 
+<img src="erd.png" width="600"/>
+
 ## How to run the scripts
 
 ```bash
@@ -21,6 +23,9 @@ python create_tables.py
 # 2. insert data to tables
 python etl.py
 ```
+
+## list of files
+* 
 
 
 
